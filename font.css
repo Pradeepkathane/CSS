@@ -1,0 +1,19 @@
+@font-face {
+    font-family: frist;
+    src: url(/font/Kruti-Dev-022.ttf);
+}
+
+
+ .allpage{
+    font-family: frist;
+    height: 500px;
+    width: 600px;
+    background-color: aqua;
+    color: red;
+ }
+
+ .h1{
+    font-family: frist;
+color: darkblue;
+
+ }

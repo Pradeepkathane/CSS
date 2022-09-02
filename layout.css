@@ -1,0 +1,57 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+.allpage{
+    height: 690px;
+    width: 980px;
+    margin: auto;
+    background-color: #fff;   
+    position: relative;
+    align-items: center;
+    justify-content: center;
+}
+
+h1{
+    text-align: center;
+    align-content: center;
+}
+
+.header{
+    height: 140px;
+    width: 980px;
+    background-color: green;
+    margin-bottom: 15px;
+    
+}
+
+.sidebar{
+    height: 450px;
+    width: 270px;
+    background-color: green;
+    margin-right: 15px;
+    
+    
+}
+
+.content{
+    height: 450px;
+    width: 690px;
+    background-color: green;
+    float: right;
+    top: -450px;
+    position: relative;
+    
+
+}
+
+.footer{
+    background-color: green;
+    height: 70px;
+    margin-top: 15px;
+    
+}

@@ -1,0 +1,56 @@
+.allpage{
+    background-color: aqua;
+    height: 1200px;
+    width: 900Px;
+    font-family: sans-serif;
+}
+
+
+*{
+    padding: 0px;
+    margin: 0px;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: sans-serif;
+}
+
+.frist{
+    background-color: grey;
+    height: 90px;
+    width: 100% ;
+}
+.logo{
+    color: white;
+    font-size: 40px;
+    line-height: 85px;
+    padding: 0 100px;
+    font-weight: bold;
+}
+.frist ul{
+float: right;
+margin-right: 20px;
+}
+
+.frist ul li{
+    display: inline-block;
+    line-height: 80px;
+    margin: 0 5px;
+}
+
+.frist ul li a{
+    color: darkblue;
+    font-size: 20px;
+    padding: 7px 13px;
+    border-radius: 3px;
+    text-transform: uppercase;
+}
+
+.img1{
+    height: 1000px;
+    width: 50%;
+}
+
